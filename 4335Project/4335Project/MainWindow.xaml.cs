@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace _4335Project
+namespace WpfApp15
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
@@ -23,43 +23,6 @@ namespace _4335Project
         public MainWindow()
         {
             InitializeComponent();
-        }
-
-        private void Pavlova_4335_Click(object sender, RoutedEventArgs e)
-        {
-            new Window1().Show();
-            Hide();
-        }
-
-
-        private void Shafigullin_4335_Click(object sender, RoutedEventArgs e)
-        {
-            new Shafigullin().Show();
-            Hide();
-        }
-
-        private void Zhelvakov_4335_Click(object sender, RoutedEventArgs e)
-        {
-            new Zhelvakov_4335().Show();
-            Hide();
-        }
-
-        private void Yakimova_4335_Click(object sender, RoutedEventArgs e)
-        {
-            new _4335_Yakimova().Show();
-            Hide();
-        }
-
-        private void Kurmanova_4335_Click(object sender, RoutedEventArgs e)
-        {
-            new Kurmanova_4335().Show();
-            Hide();
-        }
-
-        private void Gappoev_4335_Click(object sender, RoutedEventArgs e)
-        {
-            new Gappoev_4335().Show();
-            this.Close();
         }
     }
 }
