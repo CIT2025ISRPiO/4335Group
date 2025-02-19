@@ -43,13 +43,21 @@ namespace _4335Project {
         
         #line 34 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
+        internal System.Windows.Controls.Button Badretdinov_4335;
+        
+        #line default
+        #line hidden
+        
+        
+        #line 35 "..\..\MainWindow.xaml"
+        [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button Gappoev_4335;
         
         #line default
         #line hidden
         
         
-        #line 36 "..\..\MainWindow.xaml"
+        #line 37 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button Pavlova_4335;
         
@@ -57,7 +65,7 @@ namespace _4335Project {
         #line hidden
         
         
-        #line 38 "..\..\MainWindow.xaml"
+        #line 39 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button Shafigullin_4335;
         
@@ -65,7 +73,7 @@ namespace _4335Project {
         #line hidden
         
         
-        #line 39 "..\..\MainWindow.xaml"
+        #line 40 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button Yakimova_4335;
         
@@ -73,7 +81,7 @@ namespace _4335Project {
         #line hidden
         
         
-        #line 40 "..\..\MainWindow.xaml"
+        #line 41 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button Zhelvakov_4335;
         
@@ -81,7 +89,7 @@ namespace _4335Project {
         #line hidden
         
         
-        #line 41 "..\..\MainWindow.xaml"
+        #line 42 "..\..\MainWindow.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button Kurmanova_4335;
         
@@ -119,54 +127,63 @@ namespace _4335Project {
             switch (connectionId)
             {
             case 1:
-            this.Gappoev_4335 = ((System.Windows.Controls.Button)(target));
+            this.Badretdinov_4335 = ((System.Windows.Controls.Button)(target));
             
             #line 34 "..\..\MainWindow.xaml"
-            this.Gappoev_4335.Click += new System.Windows.RoutedEventHandler(this.Gappoev_4335_Click);
+            this.Badretdinov_4335.Click += new System.Windows.RoutedEventHandler(this.Badretdinov_4335_Click);
             
             #line default
             #line hidden
             return;
             case 2:
-            this.Pavlova_4335 = ((System.Windows.Controls.Button)(target));
+            this.Gappoev_4335 = ((System.Windows.Controls.Button)(target));
             
-            #line 36 "..\..\MainWindow.xaml"
-            this.Pavlova_4335.Click += new System.Windows.RoutedEventHandler(this.Pavlova_4335_Click);
+            #line 35 "..\..\MainWindow.xaml"
+            this.Gappoev_4335.Click += new System.Windows.RoutedEventHandler(this.Gappoev_4335_Click);
             
             #line default
             #line hidden
             return;
             case 3:
-            this.Shafigullin_4335 = ((System.Windows.Controls.Button)(target));
+            this.Pavlova_4335 = ((System.Windows.Controls.Button)(target));
             
-            #line 38 "..\..\MainWindow.xaml"
-            this.Shafigullin_4335.Click += new System.Windows.RoutedEventHandler(this.Shafigullin_4335_Click);
+            #line 37 "..\..\MainWindow.xaml"
+            this.Pavlova_4335.Click += new System.Windows.RoutedEventHandler(this.Pavlova_4335_Click);
             
             #line default
             #line hidden
             return;
             case 4:
-            this.Yakimova_4335 = ((System.Windows.Controls.Button)(target));
+            this.Shafigullin_4335 = ((System.Windows.Controls.Button)(target));
             
             #line 39 "..\..\MainWindow.xaml"
-            this.Yakimova_4335.Click += new System.Windows.RoutedEventHandler(this.Yakimova_4335_Click);
+            this.Shafigullin_4335.Click += new System.Windows.RoutedEventHandler(this.Shafigullin_4335_Click);
             
             #line default
             #line hidden
             return;
             case 5:
-            this.Zhelvakov_4335 = ((System.Windows.Controls.Button)(target));
+            this.Yakimova_4335 = ((System.Windows.Controls.Button)(target));
             
             #line 40 "..\..\MainWindow.xaml"
-            this.Zhelvakov_4335.Click += new System.Windows.RoutedEventHandler(this.Zhelvakov_4335_Click);
+            this.Yakimova_4335.Click += new System.Windows.RoutedEventHandler(this.Yakimova_4335_Click);
             
             #line default
             #line hidden
             return;
             case 6:
-            this.Kurmanova_4335 = ((System.Windows.Controls.Button)(target));
+            this.Zhelvakov_4335 = ((System.Windows.Controls.Button)(target));
             
             #line 41 "..\..\MainWindow.xaml"
+            this.Zhelvakov_4335.Click += new System.Windows.RoutedEventHandler(this.Zhelvakov_4335_Click);
+            
+            #line default
+            #line hidden
+            return;
+            case 7:
+            this.Kurmanova_4335 = ((System.Windows.Controls.Button)(target));
+            
+            #line 42 "..\..\MainWindow.xaml"
             this.Kurmanova_4335.Click += new System.Windows.RoutedEventHandler(this.Kurmanova_4335_Click);
             
             #line default
