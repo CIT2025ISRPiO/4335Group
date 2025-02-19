@@ -61,5 +61,11 @@ namespace _4335Project
             new Gappoev_4335().Show();
             this.Close();
         }
+
+        private void Badretdinov_4335_Click(object sender, RoutedEventArgs e)
+        {
+            new Badretdinov_4335().Show();
+            this.Close();
+        }
     }
 }
