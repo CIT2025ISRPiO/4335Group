@@ -3,19 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\coolr\\Desktop\\\u0438\u0441\u0440\u043F\u043E\\4335Group\\4335Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|C:\\Users\\coolr\\Desktop\\\u0438\u0441\u0440\u043F\u043E\\4335Group\\4335Project\\4335project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|C:\\Users\\coolr\\Desktop\\\u0438\u0441\u0440\u043F\u043E\\4335Group\\4335Project\\4335project\\abdurrakhman_4335.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\abdurrakhman_4335.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|c:\\users\\coolr\\desktop\\\u0438\u0441\u0440\u043F\u043E\\4335group\\4335project\\4335project\\abdurrakhman_4335.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\abdurrakhman_4335.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|c:\\users\\coolr\\desktop\\\u0438\u0441\u0440\u043F\u043E\\4335group\\4335project\\4335project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|C:\\Users\\coolr\\Desktop\\\u0438\u0441\u0440\u043F\u043E\\4335Group\\4335Project\\4335project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|c:\\users\\coolr\\desktop\\\u0438\u0441\u0440\u043F\u043E\\4335group\\4335project\\4335project\\gappoev_4335.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|C:\\Users\\coolr\\Desktop\\\u0438\u0441\u0440\u043F\u043E\\4335Group\\4335Project\\4335project\\gappoev_4335.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{D676AC96-9D2A-47BD-8543-35689F19BE02}|4335Project\\4335Project.csproj|solutionrelative:4335project\\gappoev_4335.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Abdurrakhman_4335.xaml",
               "DocumentMoniker": "C:\\Users\\coolr\\Desktop\\\u0438\u0441\u0440\u043F\u043E\\4335Group\\4335Project\\4335Project\\Abdurrakhman_4335.xaml",
               "RelativeDocumentMoniker": "4335Project\\Abdurrakhman_4335.xaml",
@@ -117,8 +117,7 @@
               "ToolTip": "C:\\Users\\coolr\\Desktop\\\u0438\u0441\u0440\u043F\u043E\\4335Group\\4335Project\\4335Project\\Gappoev_4335.xaml",
               "RelativeToolTip": "4335Project\\Gappoev_4335.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-02-05T09:25:01.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-05T09:25:01.313Z"
             },
             {
               "$type": "Document",
@@ -211,8 +210,7 @@
               "ToolTip": "C:\\Users\\coolr\\Desktop\\\u0438\u0441\u0440\u043F\u043E\\4335Group\\4335Project\\4335Project\\MainWindow.xaml",
               "RelativeToolTip": "4335Project\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-01-11T16:33:56.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-11T16:33:56.559Z"
             },
             {
               "$type": "Document",
@@ -262,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\coolr\\Desktop\\\u0438\u0441\u0440\u043F\u043E\\4335Group\\4335Project\\4335Project\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "4335Project\\MainWindow.xaml.cs",
