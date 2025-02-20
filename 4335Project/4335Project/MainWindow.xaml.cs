@@ -61,5 +61,10 @@ namespace _4335Project
             new Gappoev_4335().Show();
             this.Close();
         }
+
+        private void Abdurrakhman_4335_Click(object sender, RoutedEventArgs e)
+        {
+            new Abdurrakhman_4335().Show();
+        }
     }
 }

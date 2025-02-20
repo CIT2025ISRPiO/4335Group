@@ -31,14 +31,16 @@
 				<RowDefinition></RowDefinition>
                 <RowDefinition></RowDefinition>
             </Grid.RowDefinitions>
+            <Button Grid.Row="1" Content="Abdurrakhman Rawan" Name="Abdurrakhman_4335" Click="Abdurrakhman_4335_Click"/>
+            
             <Button Grid.Row="7" Content="Gappoev Kamil" Name="Gappoev_4335" Click="Gappoev_4335_Click"/>
 
+			<Button Grid.Row="9" Content="Zhelvakov Arseniy" Name="Zhelvakov_4335" Click="Zhelvakov_4335_Click"></Button>
+            <Button Grid.Row="10" Content="Kurmanova Zilya" Name="Kurmanova_4335" Click="Kurmanova_4335_Click"></Button>
             <Button Grid.Row="11" Content="Pavlova Anastasia" Name="Pavlova_4335" Click="Pavlova_4335_Click"></Button>
             
             <Button Grid.Row="19" Content="Shafigullin Ramil" Name="Shafigullin_4335" Click="Shafigullin_4335_Click"></Button>
             <Button Grid.Row="20" Content="Yakimova Elizaveta" Name="Yakimova_4335" Click="Yakimova_4335_Click"></Button>
-			<Button Grid.Row="9" Content="Zhelvakov Arseniy" Name="Zhelvakov_4335" Click="Zhelvakov_4335_Click"></Button>
-            <Button Grid.Row="10" Content="Kurmanova Zilya" Name="Kurmanova_4335" Click="Kurmanova_4335_Click"></Button>
         </Grid>
 	</Grid>
 </Window>
